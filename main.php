@@ -27,7 +27,11 @@
     <section>
         <h2>Ma formation</h2>
         <p>
-            <span class="date">depuis 06-2019</span> : <strong>Parcours Développeur d'application Java</strong> RNCP
+            <span class="date">depuis 09-2020</span> : <strong>Licence Informatique</strong> Bac+3 -
+            <a class="link" href="https://www.uca.fr/formation/nos-formations/catalogue-des-formations/licence-informatique-10075.kjsp"
+               target="_blank">Université UCA</a> (prospect de l'<a class="link" href="https://www.isima.fr/f2-g%c3%a9nie-logiciel-et-syst%c3%a8mes-informatiques/"
+            target="_blank">ISIMA</a> pour devenir ingénieur en <strong>Génie Logiciel</strong>)<br/><br/>
+            <span class="date">06-2019 à 02-2020 (hiatus)</span> : <strong>Parcours Développeur d'application Java</strong> RNCP
             niveau II / Bac+4 - <a class="link" href="https://openclassrooms.com"
                                    target="_blank">Openclassrooms</a><br/><br/>
             <span class="date">depuis 06-2018</span> : <strong>Certifications en ligne</strong> - <a class="link"
