@@ -1,6 +1,5 @@
 body
 {
-	height: 85vh;
 	background-color: #fff5e6;
 }
 section
@@ -30,7 +29,8 @@ p
 }
 #main-wrapper
 {
-	margin: 10px 100px;
+	height: 80vh;
+	margin: 0 40vh 20vh 40vh;
 	padding: 15px;
 	display: flex;
 	flex-direction: column;
